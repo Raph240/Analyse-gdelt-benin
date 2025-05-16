@@ -1,0 +1,11 @@
+pandas
+requests
+matplotlib
+wordcloud
+tqdm
+spacy
+gensim
+transformers
+newspaper3k
+python-docx
+streamlit
